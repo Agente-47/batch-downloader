@@ -10,9 +10,11 @@ A lightweight CLI tool to download sequential image sets.
 ### Requirements
 * Python 3.8+
 * requests
+
+# Installing Dependencies
 pip install requests
 
-# Usage
+### Usage
 Run the script directly via terminal:
 python main.py
 Provide target parameters at the prompt:
